@@ -21,7 +21,7 @@ python main.py
 
 ## Evaluation Scrips and Results
 
-You can use the official script to evaluate:[pycocoevalcap](https://github.com/ranjaykrishna/densevid_eval/tree/9d4045aced3d827834a5d2da3c9f0692e3f33c1c)
+You can use the official script to evaluate: [pycocoevalcap](https://github.com/ranjaykrishna/densevid_eval/tree/9d4045aced3d827834a5d2da3c9f0692e3f33c1c)
 
 
 ## More information and details will be released soon.
